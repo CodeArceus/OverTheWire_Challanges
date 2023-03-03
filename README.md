@@ -1,2 +1,2 @@
 # OverTheWire_Challanges
-As I discover them, I will add the passwords for each level of every OverTheWire wargame to this repository as a separate file, with each file containing the passwords of the respective levels within the wargame.
+This repository contains passwords obtained from solving the levels in different wargames on the OverTheWire website. The wargames include Bandit, Natas, and Leviathan, and involve challenges related to cryptography, web security, and binary exploitation. The passwords were obtained as part of a personal challenge to solve all levels in each game, and are shared here as a resource for others who may be interested in exploring these challenges. The passwords are stored in plain text files and organized by level number and game name.
